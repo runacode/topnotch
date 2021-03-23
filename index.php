@@ -1,7 +1,7 @@
-<?php $company = "DOWELL ROOFING SERVICES LLC";
-$phone = "(863) 858-4669";
-	$address1 = "1345 COVEY CIR S";
-	$address2 = "LAKELAND, FL 33809";
+<?php $company = "TOP NOTCH FLOORING";
+$phone = "(818) 425-6602";
+	$address1 = "6538 VALMONT STREET";
+	$address2 = "TUJUNGA, CA 91042";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
